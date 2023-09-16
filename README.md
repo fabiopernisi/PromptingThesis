@@ -1,5 +1,5 @@
 # PromptingThesis
-This repo contains the code and other relevant documents related to the Bachelor Thesis.
+This repo contains the code and other relevant documents related to the Bachelor Thesis "Scalability in Large-Scale Language Models: An Investigation into In-Context Learning and Prompting Techniques".
 
 In CoT_notebooks the paths to prompt files need to be adjusted to run the code.
 
