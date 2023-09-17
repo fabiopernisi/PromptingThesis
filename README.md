@@ -9,7 +9,7 @@ The _CoTPrompts_ folder contains the text files with the prompts used in the CoT
 
 The GSM8k_subset folder  contains the part of the GSM8k dataset used in the CoT empirical analysis.
 
-Finally, the PromptTuningNotebook contains the notebook for the Prompt-Tuning experiment (section 3.5). Code in the notebook is adapted from [here](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning).
+Finally, the PromptTuningNotebook contains the notebook for the Prompt-Tuning experiment (section 3.5). Code in the notebook is adapted from the [Huggingface Task Guide](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning).
 
 
 
